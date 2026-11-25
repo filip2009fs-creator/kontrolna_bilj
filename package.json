@@ -1,0 +1,20 @@
+{
+  "name": "biljeznica",
+  "version": "1.0.0",
+  "description": "Projektni zadatak: Jednostavna konzolna biljeznica u Node.js-u",
+  "type": "module",
+  "main": "glavni.js",
+  "scripts": {
+    "start": "node glavni.js",
+    "dev": "nodemon glavni.js"
+  },
+  "author": "Filip Solina 3.b",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^6.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
+ 
